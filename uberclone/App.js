@@ -12,7 +12,7 @@ import NavOptions from './components/NavOptions';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
-
+/* Stack */
 
 const Stack = createNativeStackNavigator();
 
